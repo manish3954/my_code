@@ -1,0 +1,24 @@
+.Rectangle-10 {
+    width: 100%;
+    height: 700px;
+    margin: 0 0 48px;
+    background-image: linear-gradient(to bottom, rgba(157, 14, 14, 0), #4f0707), url(../bgimage.png);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.City_dropdown {
+    padding: 1em;
+}
+
+.drop {
+    background-color: white;
+    display: flex;
+    border-radius: 10px;
+    justify-content: center;
+    justify-content: space-between;
+}
